@@ -1,0 +1,10 @@
+E:\Abdo\CS\X O\OOP Project File\OOP Project File\bin\Debug\OOP Project File.exe.config
+E:\Abdo\CS\X O\OOP Project File\OOP Project File\bin\Debug\OOP Project File.exe
+E:\Abdo\CS\X O\OOP Project File\OOP Project File\bin\Debug\OOP Project File.pdb
+E:\Abdo\CS\X O\OOP Project File\OOP Project File\obj\Debug\OOP Project File.csprojAssemblyReference.cache
+E:\Abdo\CS\X O\OOP Project File\OOP Project File\obj\Debug\OOP_Project_File.Form1.resources
+E:\Abdo\CS\X O\OOP Project File\OOP Project File\obj\Debug\OOP_Project_File.Properties.Resources.resources
+E:\Abdo\CS\X O\OOP Project File\OOP Project File\obj\Debug\OOP Project File.csproj.GenerateResource.cache
+E:\Abdo\CS\X O\OOP Project File\OOP Project File\obj\Debug\OOP Project File.csproj.CoreCompileInputs.cache
+E:\Abdo\CS\X O\OOP Project File\OOP Project File\obj\Debug\OOP Project File.exe
+E:\Abdo\CS\X O\OOP Project File\OOP Project File\obj\Debug\OOP Project File.pdb
